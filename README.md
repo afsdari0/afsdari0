@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/darioramos.dev-000?style=for-the-badge&logo=googlechrome&logoColor=4ecca3)](https://darioramos.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/dario-ramos/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/afsdari0)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25d366)](https://wa.me/5582987560451)
 
 </div>
 
@@ -81,12 +81,12 @@ Aplicação web para gerar senhas fortes com opções de tamanho e caracteres. I
 ---
 
 ### GitHub Stats
-
+s
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=afsdari0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ecca3&icon_color=5b6fff&text_color=c9d1d9&ring_color=4ecca3&locale=pt-br" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-afsdari0.vercel.app/api?username=afsdari0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ecca3&icon_color=5b6fff&text_color=c9d1d9&ring_color=4ecca3&locale=pt-br" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsdari0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ecca3&text_color=c9d1d9&langs_count=6&locale=pt-br" alt="Linguagens Mais Usadas" />
+<img height="170" src="https://github-readme-stats-afsdari0.vercel.app/api/top-langs/?username=afsdari0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ecca3&text_color=c9d1d9&langs_count=6&locale=pt-br" alt="Linguagens Mais Usadas" />
 
 </div>
 
