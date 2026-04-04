@@ -84,9 +84,9 @@ Aplicação web para gerar senhas fortes com opções de tamanho e caracteres. I
 s
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-4o4tzjrje-afsdari0s-projects.vercel.app/api?username=afsdari0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ecca3&icon_color=5b6fff&text_color=c9d1d9&ring_color=4ecca3&locale=pt-br" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-ocue.vercel.app/api?username=afsdari0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ecca3&icon_color=5b6fff&text_color=c9d1d9&ring_color=4ecca3&locale=pt-br" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats-4o4tzjrje-afsdari0s-projects.vercel.app/api/top-langs/?username=afsdari0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ecca3&text_color=c9d1d9&langs_count=6&locale=pt-br" alt="Linguagens Mais Usadas" />
+<img height="170" src="https://github-readme-stats-ocue.vercel.app/api/top-langs/?username=afsdari0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ecca3&text_color=c9d1d9&langs_count=6&locale=pt-br" alt="Linguagens Mais Usadas" />
 
 </div>
 
